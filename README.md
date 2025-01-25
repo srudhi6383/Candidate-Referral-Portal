@@ -41,28 +41,6 @@ Before running the project, make sure you have the following installed:
     ```
     The frontend React app will run on ```http://localhost:3000```.
 
-## Folder Structure
-
-```
-Candidate-Referral-Portal/
-│
-├── backend/                   # Backend API (Node.js/Express)
-│   ├── models/                 # MongoDB Models
-│   ├── server.js               # Express server & API routes
-│   ├── uploads/                # Folder to store uploaded resumes
-│   └── package.json            # Backend dependencies
-│
-├── frontend/                   # Frontend React App
-│   ├── src/
-│   │   ├── components/         # React components
-│   │   ├── pages/              # React pages (HomePage, LoginPage)
-│   │   └── App.js              # Main React app component
-│   └── package.json            # Frontend dependencies
-│
-├── README.md                   # This file
-└── .gitignore                  # Gitignore file to exclude node_modules, uploads, etc.
-```
-
 ## API Endpoints
 1. **Login** (```POST /api/login```)
     - Request Body:

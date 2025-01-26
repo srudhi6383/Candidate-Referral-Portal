@@ -50,7 +50,7 @@ Before running the project, make sure you have the following installed:
     ```
     {
       "email": "user@example.com",
-      "password": "password123"
+      "password": "user123"
     }
     ```
     - Response:

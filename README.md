@@ -3,6 +3,9 @@ A web-based application for managing employee referrals, built with a React fron
 
 ## Features
   - **Login Page**: Users can log in with credentials (Email and Password).
+    Use,
+  - email: admin@example.com
+  - password: admin123
   - **Home Page**:
     - Raise a new referral request with the candidate’s details (Name, Email, Experience, Resume).
     - Display all referral candidates and their statuses.
